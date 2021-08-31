@@ -1,4 +1,4 @@
-# Virtual Gym Trainer: 
+# Virtual Gym Trainer
 
 Using pose estimation train and preform bicep curls correctly.
 
